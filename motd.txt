@@ -3,4 +3,5 @@ Hello Chimps!
 
 Added 0-Gravity Zone,
 Added Speaker,
-And Added Kick Trigger so if you fall out the map you will be kicked.
+Added Kick Trigger so if you fall out the map you will be kicked,
+And added Water Maze map with sone little friends down there so go say hi!
