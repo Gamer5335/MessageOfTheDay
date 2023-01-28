@@ -1,8 +1,6 @@
-MESSAGE OF THE DAY:
-Hello Chimps!
+MESSAGE OF THE DAY: Hello Chimps!
 
-Added 0-Gravity Zone,
-Added Speaker,
-Added Kick Trigger so if you fall out the map you will be kicked,
-Added Water Maze map with some little friends down there so go say hi!,
-And added Cosmetics!
+ Added Mod Vents,
+ Fixed Water Maze not loading in,
+ Maybe Fixed Cosmetics,
+ And added Names!
