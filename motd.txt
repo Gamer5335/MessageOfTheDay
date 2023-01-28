@@ -1,6 +1,9 @@
 MESSAGE OF THE DAY: Hello Chimps!
 
  Added Mod Vents,
+ Added Wifi Connection Checker,
+ Added a Water Slide and broken Pool in the main map,
  Fixed Water Maze not loading in,
+ Fixed not being able to press things with your hands,
  Maybe Fixed Cosmetics,
  And added Names!
