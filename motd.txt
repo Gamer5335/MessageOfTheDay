@@ -1,9 +1,7 @@
 MESSAGE OF THE DAY: Hello Chimps!
 
- Added Mod Vents,
- Added Wifi Connection Checker,
- Added a Water Slide and broken Pool in the main map,
- Fixed Water Maze not loading in,
- Fixed not being able to press things with your hands,
- Maybe Fixed Cosmetics,
- And added Names!
+Pets are broken right now but im trying to find a way to fix it though,
+Physics are also really broken and im trying to find a fix,
+Fixed names,
+Updated leaderboard,
+And updated the ai for the horror monsters.
